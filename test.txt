@@ -1,6 +1,0 @@
-﻿this is D10B
-this is the second change
-this is the second change
-this is the third change
-
-global change
